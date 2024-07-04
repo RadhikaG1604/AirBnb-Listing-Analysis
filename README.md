@@ -33,14 +33,14 @@ The key steps in this analysis includes:
 - The wide range in prices indicates diverse offerings in the market, catering to different guest capacities and price points
 - Listings that accommodate more people generally have higher prices, suggesting that larger properties command a premium
 
-<img src="Pricing_by_Neighborhood.jpg" width="700"/>
+<img src="Pricing_by_Neighborhood.png" width="700"/>
 
 **2. Pricing is Correlated to Accomodation Capacity:** Listings that accommodate more people tend to have progressively higher average prices, with prices reaching up to €971 for properties accommodating 
 14 people
 - This correlation between accommodation size and price suggests that larger properties are positioned as more luxurious or suitable for larger groups, justifying the higher rates.
 - Hosts with larger properties can target families or groups, potentially increasing their revenue
 
-<img src="Pricing_by_Accomodate.jpg" width="700"/>
+<img src="Pricing_by_Accomodate.png" width="700"/>
 
 **3. Neighborhood price variations:** Neighborhoods with higher average prices, such as Elysee, Louvre (€175.38), and Passy (€161.14), are likely more desirable due to their location and proximity to tourist attractions or upscale amenities
 - ***Elysee:*** Close to the Champs-Élysées, luxury shopping, and the presidential palace
@@ -51,7 +51,7 @@ The key steps in this analysis includes:
 - The peak in new host registrations in 2015 may correlate with a growing interest in short-term rentals around that time
 - The subsequent fluctuation in average prices could be influenced by market adjustments, regulatory changes, or external factors such as tourism trends and economic conditions
 
-<img src="TimeSeries.jpg" width="700"/>
+<img src="TimeSeries.png" width="700"/>
 
 **5. Seasonal Fluctuations:** There are clear seasonal fluctuations in the pricing of Airbnb listings, with higher prices typically observed during peak tourist seasons. This indicates that demand for short-term rentals in Paris is highly influenced by tourism patterns. Hosts may adjust their pricing dynamically to capitalize on periods of high demand
 
