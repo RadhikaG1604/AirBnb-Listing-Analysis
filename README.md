@@ -40,7 +40,7 @@ The key steps in this analysis includes:
 - This correlation between accommodation size and price suggests that larger properties are positioned as more luxurious or suitable for larger groups, justifying the higher rates.
 - Hosts with larger properties can target families or groups, potentially increasing their revenue
 
-<img src="Pricing_by_Accomodate.png" width="700"/>
+<img src="Pricing_by_Accomodates.png" width="700"/>
 
 **3. Neighborhood price variations:** Neighborhoods with higher average prices, such as Elysee, Louvre (€175.38), and Passy (€161.14), are likely more desirable due to their location and proximity to tourist attractions or upscale amenities
 - ***Elysee:*** Close to the Champs-Élysées, luxury shopping, and the presidential palace
