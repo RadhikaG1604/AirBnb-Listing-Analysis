@@ -33,14 +33,14 @@ The key steps in this analysis includes:
 - The wide range in prices indicates diverse offerings in the market, catering to different guest capacities and price points
 - Listings that accommodate more people generally have higher prices, suggesting that larger properties command a premium
 
-<img src="Pricing by Neighborhood.jpg" width="700"/>
+<img src="Pricing_by_Neighborhood.jpg" width="700"/>
 
 **2. Pricing is Correlated to Accomodation Capacity:** Listings that accommodate more people tend to have progressively higher average prices, with prices reaching up to €971 for properties accommodating 
 14 people
 - This correlation between accommodation size and price suggests that larger properties are positioned as more luxurious or suitable for larger groups, justifying the higher rates.
 - Hosts with larger properties can target families or groups, potentially increasing their revenue
 
-<img src="Pricing by Accomodate.jpg" width="700"/>
+<img src="Pricing_by_Accomodate.jpg" width="700"/>
 
 **3. Neighborhood price variations:** Neighborhoods with higher average prices, such as Elysee, Louvre (€175.38), and Passy (€161.14), are likely more desirable due to their location and proximity to tourist attractions or upscale amenities
 - ***Elysee:*** Close to the Champs-Élysées, luxury shopping, and the presidential palace
